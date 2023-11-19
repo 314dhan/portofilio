@@ -4,4 +4,10 @@ i'm a web developer from Cilegon, Indonesia who is still a student at Serang Ray
 
 this aplication are using framework express, ejs, bootstrap
 
--https://img.shields.io/badge/any_text-you_like-blue
+how to install express and ejs:
+
+npm install express ejs
+
+and then import express to nodejs
+
+import express from "express"
